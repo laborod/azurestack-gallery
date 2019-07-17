@@ -109,7 +109,7 @@
     },
     "galleryBranch": {
       "type": "string",
-      "defaultValue": "master",
+      "defaultValue": "temp",
       "metadata": {
         "description": "Marketplace item branch"
       }

@@ -28,7 +28,7 @@
                 "count": 3,
                 "vmSize": "Standard_D2_v2",
                 "distro": "ubuntu",
-                "availabilityProfile": "AvailabilitySet",
+                "availabilityProfile": "VirtualMachineScaleSets",
                 "AcceleratedNetworkingEnabled": false
             }
         ],
