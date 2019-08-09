@@ -714,7 +714,7 @@
       "servicePrincipalClientId": "[steps('KubernetesClusterSettings').servicePrincipalClientId]",
       "identitySystem": "[steps('KubernetesClusterSettings').identitySystem]",
       "nodeDistro": "[steps('KubernetesClusterSettings').nodeDistro]",
-      "servicePrincipalClientSecret": "[steps('KubernetesClusterSettings').servicePrincipalClientSecret]",      
+      "servicePrincipalClientSecret": "[steps('KubernetesClusterSettings').servicePrincipalClientSecret]",
       "kubernetesAzureCloudProviderVersion": "[steps('KubernetesClusterSettings').kubernetesAzureCloudProviderVersion]",
       "aksEngineBaseURL": "[steps('KubernetesClusterSettings').aksEngineBaseURL]",
       "aksEngineReleaseVersion": "[steps('KubernetesClusterSettings').aksEngineReleaseVersion]",
